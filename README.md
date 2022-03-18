@@ -15,7 +15,7 @@ Project is created with:
 * Pytest 7.0.1
 	
 ## Setup
-* Prerequisites : install Python,Selenium and Pytest locally
+* Prerequisites : Install Python,Selenium and Pytest locally
 * Code Editor: Pycharm or VsCode Editor
 * Browser: Chrome / FireFox
 
