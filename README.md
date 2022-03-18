@@ -1,7 +1,7 @@
 # Trello_automation
   
   ## Table of contents
-* [General info](#general-info)
+* [About Project](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
