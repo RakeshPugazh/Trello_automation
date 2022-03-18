@@ -24,29 +24,29 @@ class TestTrello(BaseClass):
         loginPage = landingPage.ClickLogIn()
         loginPage.LogIn(getUserData["email"], getUserData["password"])
 
-    @pytest.mark.group
+    #@pytest.mark.group
     def test_CreateBoard(self):
         boards = Boards(self.driver)
         boards.CreateBoard("Trello_Board")
 
-    @pytest.mark.group
+    #@pytest.mark.group
     def test_CreateList(self, getListData):
         lists = Boards(self.driver)
         lists.CreateList(getListData)
 
-    @pytest.mark.group
+    #@pytest.mark.group
     def test_CreateCard(self, getCardData):
         cards = Boards(self.driver)
         cards.CreateCards("Not Started", getCardData)
 
-    @pytest.mark.group
+    #@pytest.mark.group
     def test_MoveCards(self):
         move = Boards(self.driver)
         move.MoveCards("Card 2", "In Progress")
         move.MoveCards("Card 3", "QA")
         move.MoveCards("Card 2", "QA")
 
-    @pytest.mark.group
+    #@pytest.mark.group
     def test_AssignUser(self):
         assign = Boards(self.driver)
         assign.AssignUser("Card 1", "I am done")
