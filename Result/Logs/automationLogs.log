@@ -1,0 +1,35 @@
+
+2022-03-18 08:29:52,268 :INFO : LoginPage :Logged In Successfully 
+2022-03-18 08:30:30,637 :INFO : Boards :Board8 has been created
+2022-03-18 08:32:50,883 :INFO : LoginPage :Logged In Successfully 
+2022-03-18 08:33:13,856 :INFO : Boards :Board9 has been created
+2022-03-18 08:33:23,662 :INFO : Boards :Not Started List has been created
+2022-03-18 08:33:24,046 :INFO : Boards :In Progress List has been created
+2022-03-18 08:33:24,254 :INFO : Boards :QA List has been created
+2022-03-18 08:33:24,861 :INFO : Boards :Done List has been created
+2022-03-18 08:33:29,294 :INFO : Boards :Card 1 has been created
+2022-03-18 08:33:37,145 :INFO : Boards :Card 2 has been created
+2022-03-18 08:33:40,419 :INFO : Boards :Card 3 has been created
+2022-03-18 08:33:43,570 :INFO : Boards :Card 4 has been created
+2022-03-18 08:33:46,503 :INFO : Boards :Card 2 moved to In Progress List
+2022-03-18 08:33:47,319 :INFO : Boards :Card 3 moved to QA List
+2022-03-18 08:33:48,142 :INFO : Boards :Card 2 moved to QA List
+2022-03-18 08:33:50,852 :INFO : Boards :Card 1 has been assigned to Rakesh (rakesh87411795)
+2022-03-18 08:33:51,308 :INFO : Boards :Commented - I am done
+2022-03-18 14:56:02,736 :INFO : LoginPage :Logged In Successfully 
+2022-03-18 14:56:29,259 :INFO : Boards :Trello_Board has been created
+2022-03-18 14:59:09,260 :INFO : LoginPage :Logged In Successfully 
+2022-03-18 14:59:26,589 :INFO : Boards :Trello_Board has been created
+2022-03-18 14:59:34,717 :INFO : Boards :Not Started List has been created
+2022-03-18 14:59:34,973 :INFO : Boards :In Progress List has been created
+2022-03-18 14:59:35,460 :INFO : Boards :QA List has been created
+2022-03-18 14:59:36,124 :INFO : Boards :Done List has been created
+2022-03-18 14:59:40,997 :INFO : Boards :Card 1 has been created
+2022-03-18 14:59:44,163 :INFO : Boards :Card 2 has been created
+2022-03-18 14:59:47,333 :INFO : Boards :Card 3 has been created
+2022-03-18 14:59:50,507 :INFO : Boards :Card 4 has been created
+2022-03-18 14:59:51,574 :INFO : Boards :Card 2 moved to In Progress List
+2022-03-18 14:59:52,405 :INFO : Boards :Card 3 moved to QA List
+2022-03-18 14:59:53,245 :INFO : Boards :Card 2 moved to QA List
+2022-03-18 14:59:54,988 :INFO : Boards :Card 1 has been assigned to Rakesh (roshanpugazh597)
+2022-03-18 14:59:55,515 :INFO : Boards :Commented - I am done
